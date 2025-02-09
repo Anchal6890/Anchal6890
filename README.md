@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.
 
-<img src="https://i.ibb.co/TQk18Rt/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif" alt="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d" border="0"></a><br /><a target='_blank'>
+<img src="https://i.ibb.co/Qv5PFs0T/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-1.jpg" alt="cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-1" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchal6890&label=Profile%20views&color=0e75b6&style=flat" alt="anchal6890" /> </p>
 
