@@ -19,7 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/anchal.singh6890@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anchal.singh6890@gmail.com" height="30" width="40" /></a>
+<a href="https://codepen.io/@anchal-singh6890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anchal.singh6890@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anchal.singh6890@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal.singh6890@gmail.com" height="30" width="40" /></a>
 </p>
 
