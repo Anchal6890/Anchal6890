@@ -13,7 +13,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🔭 I’m currently working on this page.
 
-<img src="https://i.ibb.co/Qv5PFs0T/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-1.jpg" alt="cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-1" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchal6890&label=Profile%20views&color=0e75b6&style=flat" alt="anchal6890" /> </p>
 
