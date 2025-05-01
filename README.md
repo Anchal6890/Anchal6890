@@ -10,7 +10,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-lightgrey?logo=Power-BI&logoColor=F2C811)&nbsp;
 ---
 
 - 🔭 I’m currently working on this page.
