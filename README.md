@@ -12,7 +12,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)&nbsp;
+
 
 
 - 🔭 I’m currently working on this page.
