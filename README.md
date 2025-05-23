@@ -34,8 +34,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </div>
 
 
-# GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchal6890&show_icons=true&locale=en&layout=compact" alt="Anchal6890" /></p>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anchal6890&limit=5&theme=flat&combine_all_yearly_contributions=true)
