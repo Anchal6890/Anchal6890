@@ -1,44 +1,77 @@
-### Hi there 👋, my name is Anchal Singh 
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Anchal Singh</h1>
+<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
+I am an **entry-level Data Analyst** with hands-on experience in **data cleaning, analysis, visualization, and dashboard creation**.  
+I work with real-world datasets to extract insights that support **business decision-making**.
 
+---
 
-## 🚀 Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🚀 Skills & Tools
+
+### 🧠 Data Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%230074D9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📊 Libraries & Tools
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+### 🎨 Design & Visualization
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 I’m currently working on this page.
+---
 
+## 📌 Featured Projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchal6890&label=Profile%20views&color=0e75b6&style=flat" alt="anchal6890" /> </p>
+📊 **Job Market Analytics Dashboard (Power BI)**  
+- Analyzed fresher-level Data Analyst job trends  
+- Skills demand, salary distribution, and location analysis  
+🔗 [View Project](https://github.com/Anchal6890/Job---Market---Analytics-)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://instagram.com/anchal._.singh_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="anchal.singh6890@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in//anchal-singh-143aaa347/"target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-</div>
+📉 **Customer Churn Risk Scoring**  
+- Used Python & SQL to identify churn-prone customers  
+- Built risk scores to support retention strategies  
+🔗 [View Project](https://github.com/Anchal6890/customer-churn-risk-scoring)
 
-  
-## 🧠 Tech Stack
+🤖 **AI-Driven Job Market Analysis & Salary Prediction**  
+- Python + SQL + basic ML  
+- Predicted salaries for analyst roles based on job features  
+🔗 [View Project](https://github.com/Anchal6890/AI-Driven-Job-Market-Analysis-Salary-Prediction-for-Data-Analyst-Roles)
 
-- 📘 **Jupyter Notebook** – for data analysis and visualization
-- 🐍 **Python** – core programming language
-- 📊 **Pandas**, **Matplotlib**, **Seaborn** – libraries for data science
+---
 
-  ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-blue)
-  ![Python](https://img.shields.io/badge/Python-3.8-blue)
-  ![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange)
+## 🛠 What I Do
+- Clean and preprocess raw data  
+- Perform **Exploratory Data Analysis (EDA)**  
+- Write optimized **SQL queries**  
+- Build **interactive Power BI dashboards**  
+- Translate data into actionable insights  
 
+---
+
+## 🎯 Career Goal
+Actively seeking **Entry-Level / Fresher Data Analyst** roles where I can apply my analytical skills to solve real business problems.
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/anchal-singh-143aaa347/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anchal.singh6890@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/anchal._.singh_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=anchal6890&label=Profile%20views&color=0e75b6&style=flat" alt="anchal6890" />
+</p>
