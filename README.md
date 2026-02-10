@@ -76,10 +76,6 @@ Actively seeking **Entry-Level / Fresher Data Analyst** roles where I can apply 
 <a href="mailto:anchal.singh6890@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/anchal._.singh_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=anchal6890&label=Profile%20views&color=0e75b6&style=flat" alt="anchal6890" />
