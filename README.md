@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Anchal6890/Anchal6890/main/data-analyst-banner.png"
+    alt="Data Analyst Banner"
+    width="100%"
+  />
+</p>
+
+
 <h1 align="center">Anchal Singh</h1>
 <h3 align="center">Data Analyst | Python • SQL • Power BI • Excel</h3>
 
@@ -28,10 +37,10 @@ I work with real-world datasets to extract insights that support **business deci
 
 ## 📌 Featured Projects
 
-📊 **Job Market Analytics Dashboard (Power BI)**  
+📊 **Job Market Analytics (Python • SQL • EDA)**  
 - Analyzed fresher-level Data Analyst job trends  
-- Skills demand, salary distribution, and location analysis  
-🔗 [View Project](https://github.com/Anchal6890/Job---Market---Analytics-)
+- Performed EDA on skills demand, salary distribution, and locations  
+🔗 https://github.com/Anchal6890/Job---Market---Analytics-
 
 📉 **Customer Churn Risk Scoring**  
 - Used Python & SQL to identify churn-prone customers  
